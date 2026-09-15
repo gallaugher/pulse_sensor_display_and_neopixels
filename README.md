@@ -1,9 +1,10 @@
 # Heart-Rate Monitor with 7-Segment Display & NeoPixel Heartbeat (ESP32-S3, CircuitPython)
 
 Rest a fingertip on a pulse sensor and your heart rate appears on a 4-digit LED display while a string of NeoPixels throbs red on every beat. The whole build runs from the ESP32-S3's 3.3 V pin over USB power: no soldering on the ESP32, no external power supply, no level shifter, and the only library is `adafruit_ht16k33`.
+
 ## Demo video
 
-[![Heart-rate monitor demo — ESP32-S3, 7-segment display, and a NeoPixel heartbeat](https://img.youtube.com/vi/s4pY4Ej6lgY/maxresdefault.jpg)](https://youtu.be/s4pY4Ej6lgY)
+[![Heart-rate monitor demo — ESP32-S3, 7-segment display, and a NeoPixel heartbeat](https://img.youtube.com/vi/s4pY4Ej6lgY/hqdefault.jpg)](https://youtu.be/s4pY4Ej6lgY)
 
 *Click the image to watch on YouTube.*
 
